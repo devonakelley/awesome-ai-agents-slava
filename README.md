@@ -1373,6 +1373,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://jsonify.com/">website</a> | <a href="https://twitter.com/jsonifyco">twitter</a> | <a href="https://www.linkedin.com/company/jsonify/">linkedin</a></p>
 </div>
 
+### Kalibr AI
+<div><a href="https://kalibr.systems"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>☁️ Cloud-based</p>
+
+<p>Kalibr AI keeps AI agents running in production by automatically routing around model failures, tool breakage, and degraded outcomes without redeployment. Captures outcome signals from each run and routes subsequent runs to the model and tools most likely to succeed.</p>
+
+<p><a href="https://kalibr.systems">website</a> | <a href="https://kalibr.systems/docs">docs</a></p>
+</div>
+
 ### Kapa
 <div><a href="https://www.kapa.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
